@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "555041749935",
+    "project_id": "chat-karo-a48e2",
+    "storage_bucket": "chat-karo-a48e2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:555041749935:android:be30f27da025bc2e810d5a",
+        "android_client_info": {
+          "package_name": "ankurk.chat_karo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "555041749935-eq2h25e54kcdgi6gm3qkk837q30061l6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBY2WkurM3PO2C_F8SblqxVOZLjJezovLI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "555041749935-eq2h25e54kcdgi6gm3qkk837q30061l6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
