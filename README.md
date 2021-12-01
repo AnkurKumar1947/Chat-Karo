@@ -1,16 +1,14 @@
-# chat_karo
 
-Group Chat Application powered with Firebase
+# Chat-Karo
 
-## Getting Started
+Group Chat Application powered with Firebase Authentication and Firebase Firestore.
 
-This project is a starting point for a Chat application.
 
-A few resources to get you started if this is your first Flutter project:
+## Demo
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+https://drive.google.com/file/d/1OOFIe8Qvsouk0c0-kPfmdL0rghlERlp3/view?usp=sharing
+## Screenshots
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+[![Screenshot-488.png](https://i.postimg.cc/ZqD4XF70/Screenshot-488.png)](https://postimg.cc/7C7F27yy)[![Screenshot-483.png](https://i.postimg.cc/mrvyd7SG/Screenshot-483.png)](https://postimg.cc/t1z6JZfr)
+[![Screenshot-481.png](https://i.postimg.cc/JnQHbX6x/Screenshot-481.png)](https://postimg.cc/Fd7KvYQk)
+[![Screenshot-485.png](https://i.postimg.cc/k4wLRnSZ/Screenshot-485.png)](https://postimg.cc/0MMVL1cd)
